@@ -3,6 +3,14 @@
 ## 📊 Dashboard Preview
 ![heart-attack-risk-analysis](image/heart-attack-dashboard.png)
 
+## ⬇️ Power BI File
+You can download the Power BI dashboard here:  
+[Download PBIX File](file/heart-attack-dashboard.pdf)
+
+## 🌐 Portfolio Link
+You can view this project as part of my portfolio here:  
+👉 https://abdulfatai583.github.io
+
 ## 📌 Project Overview
 Cardiovascular diseases are among the leading causes of death worldwide.  
 This project analyzes large-scale patient health data to identify key risk factors associated with heart attack occurrence and to support **data-driven preventive healthcare decisions**.
@@ -75,7 +83,3 @@ By leveraging **Power BI for data analysis and visualization**, the dashboard de
 The analysis highlights the importance of **data-driven decision-making** in reducing the long-term burden of cardiovascular disease.
 
 ---
-
-## ⬇️ Power BI File
-You can download the Power BI dashboard here:  
-[Download PBIX File](file/heart-attack-dashboard.pdf)
