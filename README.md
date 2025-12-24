@@ -1,7 +1,7 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
 ## 📊 Dashboard Preview
-![heart-attack-risk-analysis](images/heart-attack-dashboard.png)
+![heart-attack-risk-analysis](image/heart-attack-dashboard.png)
 
 ## 📌 Project Overview
 Cardiovascular diseases are among the leading causes of death worldwide.  
