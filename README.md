@@ -78,4 +78,4 @@ The analysis highlights the importance of **data-driven decision-making** in red
 
 ## ⬇️ Power BI File
 You can download the Power BI dashboard here:  
-[Download PBIX File](heart-attack-dashboard.pbix)
+[Download PBIX File](file/heart-attack-dashboard.pdf)
