@@ -1,5 +1,8 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
+## 📊 Dashboard Preview
+![heart-attack-risk-analysis](images/call-center-dashboard.png)
+
 ## 📌 Project Overview
 Cardiovascular diseases are among the leading causes of death worldwide.  
 This project analyzes large-scale patient health data to identify key risk factors associated with heart attack occurrence and to support **data-driven preventive healthcare decisions**.
