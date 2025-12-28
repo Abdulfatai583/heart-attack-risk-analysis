@@ -5,7 +5,7 @@
 
 ## ⬇️ Power BI File
 You can download the Power BI dashboard here:  
-[Download PBIX File](file/heart-attack-dashboard.pdf)
+[Download PBIX File](heart-attack-dashboard.pdf)
 
 ## 🌐 Portfolio Link
 You can view this project as part of my portfolio here:  
