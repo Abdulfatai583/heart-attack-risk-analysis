@@ -1,6 +1,7 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
-## 🌐 Live demo & screenshots! The full interactive dashboard, visuals, and project are avaliable here:
+## 🌐 Live demo & screenshots! 
+The full interactive dashboard, visuals, and project are avaliable here:
 👉 https://abdulfatai583.github.io
 
 ## 📌 Project Overview
