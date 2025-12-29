@@ -1,7 +1,7 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
 ## 📊 Dashboard Preview
-![heart-attack-risk-analysis]![Heart Attack Dashboard](https://raw.githubusercontent.com/abdulfatai583/heart-attack-risk-analysis/main/images/heart-attack-dashboard.png)
+![heart-attack-risk-analysis]{main/images/heart-attack-dashboard.png)
 
 
 ## ⬇️ Power BI File
