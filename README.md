@@ -1,15 +1,7 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
-## 📊 Dashboard Preview
-![heart-attack-risk-analysis](image/heart-attack-dashboard.png)
-
-
-## ⬇️ Power BI File
-You can download the Power BI dashboard here:  
-[Download PBIX File](heart-attack-dashboard.pdf)
-
-## 🌐 Portfolio Link
-You can view this project as part of my portfolio here:  
+## 🌐 Live demo & screenshots
+The full interactive dashboard, visuals, and project are avaliable here:
 👉 https://abdulfatai583.github.io
 
 ## 📌 Project Overview
