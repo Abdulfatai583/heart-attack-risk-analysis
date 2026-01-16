@@ -1,78 +1,71 @@
 # 🫀 Heart Attack Risk Analysis Dashboard
 
-## 🌐 Live demo & screenshots! 
-The full interactive dashboard, visuals, and project are avaliable here:
+## 📌 TL;DR (Quick Summary)
+- Analyzed **158,000 patient records** to understand **why heart attack risk varies**
+- Built an **interactive Power BI dashboard** for preventive healthcare insights
+- Higher risk observed among **middle-aged adults, urban populations, lower-income groups, and poor sleep patterns**
+- Delivered **data-driven recommendations** to support early intervention
+
+---
+
+## 🌐 Live Demo & Screenshots  
 👉 https://abdulfatai583.github.io
 
-## 📌 Project Overview
+---
+
+## 📌 Project Overview  
 Cardiovascular diseases are among the leading causes of death worldwide.  
-This project analyzes large-scale patient health data to identify key risk factors associated with heart attack occurrence and to support **data-driven preventive healthcare decisions**.
+This project analyzes large-scale patient health data to explain **why certain demographic, medical, and lifestyle factors are associated with higher heart attack risk**.
 
-The dashboard is designed to help **healthcare professionals, analysts, and policymakers** quickly identify high-risk populations and understand how demographic, medical, and lifestyle variables contribute to heart attack risk.
-
----
-
-## 📊 Dataset Summary
-The dataset contains over **158,000 patient records** with a combination of demographic, medical, and lifestyle information, including:
-
-- Age and gender  
-- Income level  
-- Cholesterol and blood pressure levels  
-- Diabetes and hypertension status  
-- Sleep duration and stress levels  
-- Physical activity patterns  
+The dashboard supports **preventive, data-driven decision-making** by helping stakeholders identify high-risk populations early.
 
 ---
 
-## 🧹 Data Preparation
-Data preparation and transformation were carried out using **Power Query**, including:
-
-- Handling missing and inconsistent values  
-- Grouping continuous variables such as age and income into analytical categories  
-- Creating derived features such as cholesterol risk groups and heart attack indicators  
-- Building a structured and optimized data model for Power BI analysis  
-
----
-
-## 🔍 Key Findings & Insights
-
-### Overall Metrics
-- **Total Patients Analyzed:** 158,000  
-- **Heart Attack Rate:** ~40%  
-- **Average Sleep Duration:** 6.48 hours  
-- **Average Cholesterol Level:** 199.53  
-
-### Demographic & Regional Insights
-- Urban regions recorded significantly more heart attack cases than rural areas, suggesting higher lifestyle-related risk exposure.  
-- Middle-aged adults showed the highest number of heart attack cases, followed by older age groups.  
-- Males and individuals in lower-income categories exhibited slightly higher risk levels.  
-
-### Health & Lifestyle Insights
-- Patients with hypertension and diabetes had a significantly higher likelihood of heart attacks.  
-- High stress levels and insufficient sleep were strongly correlated with increased risk.  
-- Moderate physical activity and healthy sleep patterns were associated with lower risk rates.  
+## 📊 Data Overview  
+- **Total Patients:** 158,000  
+- Demographics: Age group, gender, income level  
+- Health factors: Cholesterol, diabetes, family history  
+- Lifestyle indicators: Sleep duration & quality, alcohol consumption  
+- Region: Urban vs rural  
 
 ---
 
-## 💡 Recommendations
-- Encourage regular physical activity and stress-management programs, particularly in urban areas.  
-- Promote early health screenings for individuals with high cholesterol, diabetes, or hypertension.  
-- Increase public awareness around adequate sleep (6–8 hours) and balanced nutrition.  
-- Implement targeted preventive interventions for middle-aged and low-income populations.  
+## 🔍 Key Findings – Why Risk Increases  
+
+- **Middle-aged adults** show the highest cases **because cardiovascular risk accumulates over time**.  
+- **Urban populations** record more cases **due to lifestyle-related risk exposure**.  
+- **Lower- and middle-income groups** are more affected, likely linked to **access and long-term stress factors**.  
+- **Poor sleep quality** increases risk by impacting heart recovery and regulation.  
+- **Diabetes and family history** elevate risk due to **genetic and metabolic strain on the heart**.
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI Desktop:** Data modeling, DAX measures, and dashboard development  
-- **Power Query:** Data cleaning and transformation  
-- **Excel:** Initial data inspection and validation  
+## 💡 Data-Driven Recommendations  
+
+- Prioritize **early screening** for middle-aged individuals.  
+- Target **urban communities** with lifestyle-focused health programs.  
+- Promote **healthy sleep habits** as part of cardiovascular prevention.  
+- Closely monitor individuals with **diabetes or family history of heart disease**.  
+- Design **accessible preventive healthcare initiatives** for lower-income groups.
 
 ---
 
-## ✅ Conclusion
-This project demonstrates how lifestyle behaviors and underlying medical conditions significantly influence heart attack risk.  
-By leveraging **Power BI for data analysis and visualization**, the dashboard delivers actionable insights that support preventive healthcare planning and policy decisions.
+## 🛠 Tools & Technologies  
+- **Power BI Desktop** – Data modeling, DAX measures, dashboard design  
+- **Power Query** – Data cleaning and transformation  
+- **Excel** – Initial data inspection  
 
-The analysis highlights the importance of **data-driven decision-making** in reducing the long-term burden of cardiovascular disease.
+
+## ✅ Conclusion  
+This project demonstrates that heart attack risk is driven by a **combination of demographic, medical, and lifestyle factors**, not a single cause.  
+By using **Power BI for analysis and visualization**, the dashboard delivers **clear insights that support preventive healthcare decisions**.
+
+
+## 📫 Contact  
+**Aliu Abdulfatai**  
+📧 aliuabdulfatai5@gmail.com  
+📞 +234 701 813 4480  
+🔗 LinkedIn: https://linkedin.com/in/aliu-abdul-fatai-17366839a  
+🔗 GitHub: https://github.com/abdulfatai583
 
 ---
